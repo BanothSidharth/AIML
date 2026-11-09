@@ -1,0 +1,13 @@
+# Machine Learning datasets
+nn/mnist_train.csv
+nn/mnist_test.csv
+
+# Mac files
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
